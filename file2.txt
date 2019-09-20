@@ -1,7 +1,10 @@
 secind file
 third line
 fourth line
+<<<<<<< HEAD
 fifth line
 sixth line
 seven line
 eight line
+=======
+>>>>>>> parent of 0712d39... stash commit
