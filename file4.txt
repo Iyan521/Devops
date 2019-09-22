@@ -1,12 +1,5 @@
 hey how are you?
-<<<<<<< HEAD
-<<<<<<< HEAD
 second
 third
 fourth
 fifth
-
-=======
->>>>>>> parent of aeee507... conflict two
-=======
->>>>>>> parent of aeee507... conflict two
